@@ -1,5 +1,11 @@
 # Priyadharshini-TNSDC-FWD-DP
 
+## live link
+
+click below link to see live site
+
+[My portfolio ▶️](https://priya-dharshini-11.github.io/Priyadharshini-TNSDC-FWD-DP/)
+
 ## Project tree 
 
 Batman-portfolio/ <br>
